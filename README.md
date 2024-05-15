@@ -1,4 +1,5 @@
-## Automated script to test c++/python/java codes for algorithmic problems by generating random tests
+# Algorithms Testing
+Automated script to test c++/python/java codes for algorithmic problems by generating random tests
 
 ### .bat file for testing in windows 
 
